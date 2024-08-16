@@ -1,0 +1,182 @@
+[
+  {
+    "lang": "Albanian",
+    "abbr": "sq"
+  },
+  {
+    "lang": "Arabic",
+    "abbr": "ar"
+  },
+  {
+    "lang": "Azerbaijani",
+    "abbr": "az"
+  },
+  {
+    "lang": "Bengali",
+    "abbr": "bn"
+  },
+  {
+    "lang": "Bulgarian",
+    "abbr": "bg"
+  },
+  {
+    "lang": "Catalan",
+    "abbr": "ca"
+  },
+  {
+    "lang": "Chinese",
+    "abbr": "zh"
+  },
+  {
+    "lang": "Chinese (traditional)",
+    "abbr": "zt"
+  },
+  {
+    "lang": "Czech",
+    "abbr": "cs"
+  },
+  {
+    "lang": "Danish",
+    "abbr": "da"
+  },
+  {
+    "lang": "Dutch",
+    "abbr": "nl"
+  },
+  {
+    "lang": "English",
+    "abbr": "en"
+  },
+  {
+    "lang": "Esperanto",
+    "abbr": "eo"
+  },
+  {
+    "lang": "Finnish",
+    "abbr": "fi"
+  },
+  {
+    "lang": "French",
+    "abbr": "fr"
+  },
+  {
+    "lang": "German",
+    "abbr": "de"
+  },
+  {
+    "lang": "Greek",
+    "abbr": "el"
+  },
+  {
+    "lang": "Hebrew",
+    "abbr": "he"
+  },
+  {
+    "lang": "Hindi",
+    "abbr": "hi"
+  },
+  {
+    "lang": "Hungarian",
+    "abbr": "hu"
+  },
+  {
+    "lang": "Indonesian",
+    "abbr": "id"
+  },
+  {
+    "lang": "Irish",
+    "abbr": "ga"
+  },
+  {
+    "lang": "Italian",
+    "abbr": "it"
+  },
+  {
+    "lang": "Japanese",
+    "abbr": "ja"
+  },
+  {
+    "lang": "Korean",
+    "abbr": "ko"
+  },
+  {
+    "lang": "Latvian",
+    "abbr": "lv"
+  },
+  {
+    "lang": "Lithuanian",
+    "abbr": "lt"
+  },
+  {
+    "lang": "Malay",
+    "abbr": "ms"
+  },
+  {
+    "lang": "Norwegian",
+    "abbr": "nb"
+  },
+  {
+    "lang": "Persian",
+    "abbr": "fa"
+  },
+  {
+    "lang": "Polish",
+    "abbr": "pl"
+  },
+  {
+    "lang": "Portuguese",
+    "abbr": "pt"
+  },
+  {
+    "lang": "Romanian",
+    "abbr": "ro"
+  },
+  {
+    "lang": "Russian",
+    "abbr": "ru"
+  },
+  {
+    "lang": "Serbian",
+    "abbr": "sr"
+  },
+  {
+    "lang": "Slovak",
+    "abbr": "sk"
+  },
+  {
+    "lang": "Slovenian",
+    "abbr": "sl"
+  },
+  {
+    "lang": "Spanish",
+    "abbr": "es"
+  },
+  {
+    "lang": "Swedish",
+    "abbr": "sv"
+  },
+  {
+    "lang": "Tagalog",
+    "abbr": "tl"
+  },
+  {
+    "lang": "Thai",
+    "abbr": "th"
+  },
+  {
+    "lang": "Turkish",
+    "abbr": "tr"
+  },
+  {
+    "lang": "Ukrainian",
+    "abbr": "uk"
+  },
+  {
+    "lang": "Urdu",
+    "abbr": "ur"
+  },
+  {
+    "lang": "Vietnamese",
+    "abbr": "vi"
+  }
+]
